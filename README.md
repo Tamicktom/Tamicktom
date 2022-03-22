@@ -6,9 +6,10 @@ I like to read, watch anime, play with friends and program... I'm a simple perso
 
 Currently working on Project Gatler, a web-based, "open world" role-playing game with a focus on storytelling...
 
+<!--
 ### Last song played:
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=qd2tk4ozstw4tr5m0scksklhq&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true">
-
+-->
 ### Activity on GitHub:
 <img src="https://github.com/Tamicktom/Tamicktom/blob/output/github-contribution-grid-snake.svg">
 <div>
