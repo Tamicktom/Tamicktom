@@ -1,10 +1,6 @@
 ## Welcome to my Profile
 
-I'm just a person looking to learn cool things. Internet Systems Student, graduated in Computer Maintenance and Support and currently working as a Graphic Designer.
-
-I like to read, watch anime, play with friends and program... I'm a simple person :smiley_cat:.
-
-Currently working on Project Gatler, a web-based, "open world" role-playing game with a focus on storytelling...
+I'm just a person looking to learn cool things. Internet Systems Student, graduated in Computer Maintenance and Support.
 
 <!--
 ### Last song played:
