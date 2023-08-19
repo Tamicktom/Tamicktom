@@ -1,5 +1,3 @@
-![](https://github.com/Tamicktom/Tamicktom/blob/output/github-contribution-grid-snake.svg)<br/>
-
 # 💫 About Me:
 
 I'm just a person looking to learn cool things. Internet Systems Student, graduated in Computer Maintenance and Support.
