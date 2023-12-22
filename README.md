@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-I'm just a person looking to learn cool things. Internet Systems Student, graduated in Computer Maintenance and Support.
+I'm just a person looking to learn cool things. Graduated in Internet Systems and Computer Maintenance and Support.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-fonseca-5793aa208/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Tamicktom) 
