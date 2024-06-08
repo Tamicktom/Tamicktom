@@ -61,7 +61,7 @@ inset:0;
 object-fit: cover;
 background-size: cover;
 z-index: 99;
-backdrop-filter: hue-rotate(70deg);
+backdrop-filter: hue-rotate(120deg) opacity(0.5);
 "]{}
 
 \mmlToken{ms}[fontfamily="
