@@ -61,7 +61,7 @@ inset:0;
 object-fit: cover;
 background-size: cover;
 z-index: 99;
-backdrop-filter: hue-rotate(120deg) opacity(0.5);
+backdrop-filter: hue-rotate(120deg) opacity(0.15);
 "]{}
 
 \mmlToken{ms}[fontfamily="
@@ -70,7 +70,7 @@ color:transparent;
 pointer-events: none;
 position: fixed;
 inset: 0;
-backdrop-filter: saturate(2) blur(4px) brightness(3.7) opacity(0.2);
+backdrop-filter: saturate(2) blur(8px) brightness(3.7) opacity(0.2);
 "]{}
 ```
 
