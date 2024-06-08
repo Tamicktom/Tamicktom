@@ -10,7 +10,7 @@
 
 ```math
 \mmlToken{ms}[fontfamily="
-madebycubiquwu;
+notstolen_owo_;
 color: transparent;
 pointer-events:none;
 z-index: -11;
@@ -24,7 +24,7 @@ background: url('https://raw.githubusercontent.com/iGerman00/iGerman00/main/back
 "]{}
 
 \mmlToken{ms}[fontfamily="
-madebycubiquwu;
+notstolen_owo_;
 color: transparent;
 pointer-events:none;
 z-index: 999;
@@ -38,7 +38,7 @@ background: linear-gradient(45deg, black, transparent);
 "]{}
 
 \mmlToken{ms}[fontfamily="
-madebycubiquwu;
+notstolen_owo_;
 color: transparent;
 position: fixed;
 inset: 0;
@@ -52,7 +52,20 @@ opacity: 0.5;
 "]{}
 
 \mmlToken{ms}[fontfamily="
-font-family: madebycubiquwu;
+notstolen_owo_;
+color: transparent;
+pointer-events:none;
+z-index: -10;
+position: fixed;
+inset:0;
+object-fit: cover;
+background-size: cover;
+z-index: 99;
+backdrop-filter: hue-rotate(70deg);
+"]{}
+
+\mmlToken{ms}[fontfamily="
+font-family: notstolen_owo_;
 color:transparent;
 pointer-events: none;
 position: fixed;
