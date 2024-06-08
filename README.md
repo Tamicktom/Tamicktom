@@ -76,7 +76,17 @@ backdrop-filter: saturate(2) blur(8px) brightness(3.7) opacity(0.2);
 
 # 💫 About Me:
 
-I'm just a person looking to learn cool things. Graduated in Internet Systems and Computer Maintenance and Support.
+Nyaa~~~
+
+Hello, wellcome to my cozy corner! uwu
+
+Currently, I'm working as a full-stack devewoper, and sometimes I dabble in some mobile stuff too (React Native of couwse, hihi) 📱✨.
+
+I graduated in Internet Systems at [FATEC Jales](https://www.fatecjales.edu.br/) 🎓💻 and now I'm pursuing a Master's in Computer Science at [UNESP](https://www2.unesp.br/) 📚🎉.
+
+I really love web development, but lately I've been focusing on learning more about Data Science 📊🌟.
+
+🌸✨💕
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-fonseca-5793aa208/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Tamicktom) 
