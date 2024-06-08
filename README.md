@@ -20,7 +20,7 @@ object-fit: cover;
 background-size: cover;
 width: 130vw;
 opacity: 0.5;
-background: url('https://r4.wallpaperflare.com/wallpaper/892/692/922/howl-s-moving-castle-studio-ghibli-fantasy-art-clouds-daylight-hd-wallpaper-3be62c2d93012fc995842bf94d4cdc00.jpg');
+background: url('https://raw.githubusercontent.com/iGerman00/iGerman00/main/background.jpg');
 "]{}
 
 \mmlToken{ms}[fontfamily="
