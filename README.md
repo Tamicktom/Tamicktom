@@ -13,11 +13,19 @@ I really love web development, but lately I've been focusing on learning more ab
 🌸✨💕
 
 ## 🌐 Socials:
+
+<div style="display:flex;">
+  <a href="https://app.daily.dev/tamicktom"><img src="https://api.daily.dev/devcards/v2/GoFTgQnBndcHKsOZlerHr.png?r=938&type=default" width="356" alt="Tamicktom's Dev Card"/></a>
+  
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=qd2tk4ozstw4tr5m0scksklhq&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
+</div>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-fonseca-5793aa208/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Tamicktom) 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tamicktom&theme=omni&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=qd2tk4ozstw4tr5m0scksklhq&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
 
 ![](https://count.getloli.com/get/@:Tamicktom?theme=rule34)
 
