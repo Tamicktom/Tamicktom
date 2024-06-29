@@ -23,7 +23,7 @@ I really love web development, but lately I've been focusing on learning more ab
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-fonseca-5793aa208/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Tamicktom) 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tamicktom&theme=omni&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tamicktom&theme=omni&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=jupyter%20notebook)
 
 
 
