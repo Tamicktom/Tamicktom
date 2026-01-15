@@ -3,7 +3,7 @@ Welcome to my GitHub corner! I'm a **Full-Stack Developer** with a touch of **Mo
 ## 🚀 About Me
 
 - 🎓 Graduated in **Internet Systems** from FATEC Jales.
-- 👨‍💻 Almost **3 years of experience** as a developer, working with technologies like **Next.js, TypeScript, PHP, and Python**.
+- 👨‍💻 Almost **4 years of experience** as a developer, working with technologies like **Next.js, TypeScript, PHP, and Python**.
 - 🎮 In my spare time, I enjoy creating games, exploring the **Godot** engine, and playing around with **genetic algorithms**.
 - 📊 Currently focused on learning more about **Machine Learning** and **LLMs**.
 
